@@ -7,7 +7,7 @@ A shell script that creates a GitHub repository from the command line and clones
 $ ./script.sh
 ```
 ### Note:
-- You would need a personal access token [link](.https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+- You would need a personal access token [link](./https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 - The created repository is public by default.
 
 # Version
